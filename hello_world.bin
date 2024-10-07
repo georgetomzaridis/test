@@ -1,0 +1,12 @@
+
+#include <stdio.h>
+
+void setup() {
+    // This is where setup code goes
+}
+
+void loop() {
+    // Print "Hello World"
+    printf("Hello World\n");
+    while(1); // Infinite loop to prevent exit
+}
